@@ -1,0 +1,1 @@
+- Shared groovy scripts that can be reused in jenkinsfile by multiple teams.
